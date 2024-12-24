@@ -1,5 +1,4 @@
-# Customer-Segmentation-RFM-Analysis-
-# Customer Segmentation & RFM Analysis  
+# Customer-Segmentation-RFM-Analysis- 
 
 ## 📊 Project Overview  
 
